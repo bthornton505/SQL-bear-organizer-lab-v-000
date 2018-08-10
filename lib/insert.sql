@@ -17,4 +17,8 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
 VALUES ('Grinch', 18, 'M', 'green', 'bitter', 1)
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) 
+VALUES ('Wendy', 5, 'F', 'reddish', 'lazy', 1)
+
+INSERT INTO bears (name, age, gender, color, temperament, alive) 
 VALUES ('Mr. Chocolate', 10, 'M', 'brown', 'smooth', 1)
+
